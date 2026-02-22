@@ -25,4 +25,4 @@ This can be easily deduced from the land use map. These analysis raises a big co
 
 
 
-![The project poster](https://github.com/Seped28/Air-Pollution-Risk-Assessment/blob/main/Poster-AirPollutionAssessment.jpg)
+![The project poster](https://github.com/Seped28/Flood-Risk-Assessment/blob/main/Final-project_AGIS23_Poster.pdf)
