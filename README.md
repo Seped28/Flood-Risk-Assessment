@@ -1,7 +1,7 @@
 # Flood-Risk-Assessment
 
 This project is a GIS analysis conducted to improve the Flood Insurance Rate Map (FIRM) by FEMA.
-This project won the GIS Day Savannah competition, organized by Savannah Area Geographic Information System (SAGIS) in 2023.
+This project won the GIS Day Savannah competition, organized by the Savannah Area Geographic Information System (SAGIS) in 2023.
 
 ## Aim
 
