@@ -16,7 +16,7 @@ By leveraging GIS techniques, Flood risk maps can be created to improve the asse
 * The precipitation data (from CHRS)
 * Soil data (from USDA)
 * Flood Insurance Rate Map (from FEMA)
-* Population and administrative boundary dataset (from Cemsu)
+* Population and administrative boundary dataset (from Census)
 
 ## Conclusion
 About of 40% of the total land mass of Franklin County is susceptible to high rates of flooding events. Also, more than 60% of the entire county has already recorded human activities and density.
