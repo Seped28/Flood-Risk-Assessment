@@ -5,7 +5,7 @@ This project won the GIS Day Savannah competition, organized by the Savannah Are
 
 ## Aim
 
-Flooding is an overflowing of water onto land that is normally dry. Floods can happen during heavy rains, when ocean waves come on shore, when snow melts quickly, or when dams or levees break. Floods are the most common and widespread of all weather-related natural disasters. (NOAA, 2022). The Study area of this project is Franklin County, Ohio. It is the most populous county in Ohio, and according to the Columbus public health department, Flooding is the third biggest hazard to residents
+Flooding is an overflowing of water onto land that is normally dry. Floods can happen during heavy rains, when ocean waves come on shore, when snow melts quickly, or when dams or levees break. Floods are the most widespread of all weather-related natural disasters. (NOAA, 2022). The Study area of this project is Franklin County, Ohio. It is the most populous county in Ohio, and according to the Columbus public health department, Flooding is the third biggest hazard to residents
 By leveraging GIS techniques, Flood risk maps can be created to improve the assessment of FEMA's product
 
 
@@ -25,4 +25,4 @@ This can be easily deduced from the land use map. These analysis raises a big co
 
 
 
-![The project poster](https://github.com/Seped28/Flood-Risk-Assessment/blob/main/Final-project_AGIS23_Poster.pdf)
+![The project poster](https://github.com/Seped28/Flood-Risk-Assessment/blob/main/Final-project_AGIS23.jpg)
